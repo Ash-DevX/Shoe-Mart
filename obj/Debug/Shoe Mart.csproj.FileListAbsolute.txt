@@ -1,0 +1,13 @@
+D:\Shoe Mart\bin\Debug\Shoe Mart.exe.config
+D:\Shoe Mart\bin\Debug\Shoe Mart.exe
+D:\Shoe Mart\bin\Debug\Shoe Mart.pdb
+D:\Shoe Mart\obj\Debug\Shoe Mart.csproj.AssemblyReference.cache
+D:\Shoe Mart\obj\Debug\Shoe_Mart.Form1.resources
+D:\Shoe Mart\obj\Debug\Shoe_Mart.NewUserPage.resources
+D:\Shoe Mart\obj\Debug\Shoe_Mart.Properties.Resources.resources
+D:\Shoe Mart\obj\Debug\Shoe_Mart.ViewPage.resources
+D:\Shoe Mart\obj\Debug\Shoe Mart.csproj.GenerateResource.cache
+D:\Shoe Mart\obj\Debug\Shoe Mart.csproj.CoreCompileInputs.cache
+D:\Shoe Mart\obj\Debug\Shoe Mart.exe
+D:\Shoe Mart\obj\Debug\Shoe Mart.pdb
+D:\Shoe Mart\obj\Debug\Shoe Mart.exe.config
